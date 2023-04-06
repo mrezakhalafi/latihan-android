@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/mipmap-anydpi-v33/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/layout_fragment_home.xml.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/layout_activity_main.xml.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/xml_backup_rules.xml.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/layout_fragment_notifications.xml.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/layout_fragment_dashboard.xml.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-pngs-35:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.latihanandroid.app-merged_res-40:/layout_activity_main.xml.flat",
+        "source": "com.example.latihanandroid.app-main-42:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/drawable_main_character.jpg.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/drawable/main_character.jpg"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/menu_bottom_nav_menu.xml.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/navigation_mobile_navigation.xml.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-merged_res-40:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/mrezakhalafi/.gradle/daemon/7.5/com.example.latihanandroid.app-main-42:/mipmap-hdpi/ic_launcher.webp"
+    }
+]
